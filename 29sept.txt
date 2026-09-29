@@ -1,0 +1,5 @@
+i have learnt creating repo and adding commit in a repo.
+i have learnt psuhing msgs and changing texts in repo.
+i have learnt how to retore and revert in a file.
+i have learnt how to create and switch the branch.
+i have also learnt how to merge the file into the main branch.
