@@ -5,3 +5,4 @@ i have learnt how to create and switch the branch.
 i have also learnt how to merge the file into the main branch.
 hello everyone!
 welcome again.
+now to check revert command.
